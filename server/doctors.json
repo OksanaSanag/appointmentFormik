@@ -1,0 +1,83 @@
+{
+    "doctors": [
+      {
+        "id": 1,
+        "name": "Name1",
+        "lastName": "LastName1",
+        "specializations": ["spec1", "spec2"]
+      },
+      {
+        "id": 2,
+        "name": "Name2",
+        "lastName": "LastName2",
+        "specializations": ["spec3"]
+      },
+      {
+        "id": 3,
+        "name": "Name3",
+        "lastName": "LastName3",
+        "specializations": ["spec3", "spec5"]
+      },
+      {
+        "id": 4,
+        "name": "Name4",
+        "lastName": "LastName4",
+        "specializations": ["spec5"]
+      },
+      {
+        "id": 5,
+        "name": "Name5",
+        "lastName": "LastName5",
+        "specializations": ["spec7"]
+      },
+      {
+        "id": 6,
+        "name": "Name6",
+        "lastName": "LastName6",
+        "specializations": ["spec2", "spec6"]
+      },
+      {
+        "id": 7,
+        "name": "Name7",
+        "lastName": "LastName7",
+        "specializations": ["spec2", "spec5"]
+      },
+      {
+        "id": 8,
+        "name": "Name8",
+        "lastName": "LastName8",
+        "specializations": ["spec6"]
+      },
+      {
+        "id": 9,
+        "name": "Name9",
+        "lastName": "LastName9",
+        "specializations": ["spec5", "spec6"]
+      },
+      {
+        "id": 10,
+        "name": "Name10",
+        "lastName": "LastName10",
+        "specializations": ["spec1", "spec4"]
+      },
+      {
+        "id": 11,
+        "name": "Name11",
+        "lastName": "LastName11",
+        "specializations": ["spec1", "spec6"]
+      },
+      {
+        "id": 12,
+        "name": "Name12",
+        "lastName": "LastName12",
+        "specializations": ["spec7"]
+      },
+      {
+        "id": 13,
+        "name": "Name13",
+        "lastName": "LastName13",
+        "specializations": ["spec2", "spec3"]
+      }
+    ]
+  }
+  

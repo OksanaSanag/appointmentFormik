@@ -1,0 +1,40 @@
+{
+    "specialization": [
+      {
+        "id": "spec1",
+        "slug": "dent-therap",
+        "title": "Dentist-therapist"
+      },
+      {
+        "id": "spec2",
+        "slug": "dent-surgeon",
+        "title": "Dentist-surgeon"
+      },
+      {
+        "id": "spec3",
+        "slug": "endodontist",
+        "title": "Endodontist"
+      },
+      {
+        "id": "spec4",
+        "slug": "implantologist",
+        "title": "Implantologist"
+      },
+      {
+        "id": "spec5",
+        "slug": "orthodontist",
+        "title": "Orthodontist"
+      },
+      {
+        "id": "spec6",
+        "slug": "periodontologist",
+        "title": "Periodontologist"
+      },
+      {
+        "id": "spec7",
+        "slug": "prosthetist",
+        "title": "Prosthetist"
+      }
+    ]
+  }
+  
